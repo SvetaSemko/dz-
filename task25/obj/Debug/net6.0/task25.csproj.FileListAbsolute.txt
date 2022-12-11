@@ -1,0 +1,15 @@
+/Users/ryzik/Desktop/C#dz./task25/bin/Debug/net6.0/task25
+/Users/ryzik/Desktop/C#dz./task25/bin/Debug/net6.0/task25.deps.json
+/Users/ryzik/Desktop/C#dz./task25/bin/Debug/net6.0/task25.runtimeconfig.json
+/Users/ryzik/Desktop/C#dz./task25/bin/Debug/net6.0/task25.dll
+/Users/ryzik/Desktop/C#dz./task25/bin/Debug/net6.0/task25.pdb
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.csproj.AssemblyReference.cache
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.AssemblyInfoInputs.cache
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.AssemblyInfo.cs
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.csproj.CoreCompileInputs.cache
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.dll
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/refint/task25.dll
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.pdb
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/task25.genruntimeconfig.cache
+/Users/ryzik/Desktop/C#dz./task25/obj/Debug/net6.0/ref/task25.dll
