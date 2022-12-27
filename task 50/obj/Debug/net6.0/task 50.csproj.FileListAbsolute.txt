@@ -1,0 +1,15 @@
+/Users/ryzik/Desktop/C#dz./task 50/bin/Debug/net6.0/task 50
+/Users/ryzik/Desktop/C#dz./task 50/bin/Debug/net6.0/task 50.deps.json
+/Users/ryzik/Desktop/C#dz./task 50/bin/Debug/net6.0/task 50.runtimeconfig.json
+/Users/ryzik/Desktop/C#dz./task 50/bin/Debug/net6.0/task 50.dll
+/Users/ryzik/Desktop/C#dz./task 50/bin/Debug/net6.0/task 50.pdb
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.csproj.AssemblyReference.cache
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.AssemblyInfoInputs.cache
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.AssemblyInfo.cs
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.csproj.CoreCompileInputs.cache
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.dll
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/refint/task 50.dll
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.pdb
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/task 50.genruntimeconfig.cache
+/Users/ryzik/Desktop/C#dz./task 50/obj/Debug/net6.0/ref/task 50.dll
